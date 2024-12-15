@@ -1,0 +1,29 @@
+.contact-form {
+    border: solid black;
+    border-radius: 5px;
+    border-spacing: 10px;
+    margin: 5em auto;
+    width: 20em;
+    height: 20em;
+    font-family: "Yuji Mai", sans-serif;
+}
+
+#title {
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+
+#field1, #field2, #field3 {
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+
+#submitButton {
+    text-align: center;
+    width: 100%;
+    margin-top: 1.5em; 
+
+    
+    
+}
+
